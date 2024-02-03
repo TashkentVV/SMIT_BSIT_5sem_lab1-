@@ -1,0 +1,10 @@
+﻿  BSIT_1_add.cpp
+C:\Users\Vladislav\Desktop\TashkentVV_SMIT_1_Add\BSIT_1_add.cpp(16,1): warning C4005: UNICODE: изменение макроопределения
+C:\Users\Vladislav\Desktop\TashkentVV_SMIT_1_Add\BSIT_1_add.cpp(16,1): message : "UNICODE" ранее объявлен в командной строке
+C:\Users\Vladislav\Desktop\TashkentVV_SMIT_1_Add\BSIT_1_add.cpp(152,44): warning C4267: =: преобразование из "size_t" в "ULONG"; возможна потеря данных
+C:\Users\Vladislav\Desktop\TashkentVV_SMIT_1_Add\BSIT_1_add.cpp(167,45): warning C4267: =: преобразование из "size_t" в "ULONG"; возможна потеря данных
+C:\Users\Vladislav\Desktop\TashkentVV_SMIT_1_Add\BSIT_1_add.cpp(171,34): warning C4244: =: преобразование "__int64" в "ULONG", возможна потеря данных
+C:\Users\Vladislav\Desktop\TashkentVV_SMIT_1_Add\BSIT_1_add.cpp(381,44): warning C4267: =: преобразование из "size_t" в "ULONG"; возможна потеря данных
+C:\Users\Vladislav\Desktop\TashkentVV_SMIT_1_Add\BSIT_1_add.cpp(396,45): warning C4267: =: преобразование из "size_t" в "ULONG"; возможна потеря данных
+C:\Users\Vladislav\Desktop\TashkentVV_SMIT_1_Add\BSIT_1_add.cpp(400,34): warning C4244: =: преобразование "__int64" в "ULONG", возможна потеря данных
+  TashkentVV_SMIT_1_Add.vcxproj -> C:\Users\Vladislav\Desktop\TashkentVV_SMIT_1_Add\x64\Debug\TashkentVV_SMIT_1_Add.exe
